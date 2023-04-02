@@ -1,6 +1,6 @@
 # Spice Works Ticketing Lab<br/>
 <h2>Description</h2>
-In this lab we're going to walk through how to help desk tickets using Spiceworks and thier free cloud based helpdesk feature.
+In this lab we're going to walk through how to create help desk tickets using Spiceworks and thier free cloud based helpdesk feature.
 <br />
 
 
